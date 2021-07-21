@@ -1,0 +1,5 @@
+package Enums;
+
+public enum LibraryCatalog {
+    ART_AND_HUMANITY,BUSINESS_AND_ADMINISTRATION,SCIENCE_AND_ENGINEERING;
+}
